@@ -639,7 +639,7 @@ Tasks that is Moderated by Depression, Psyarxiv preprint
 
 **Journal Publications (as listed in PubMed)**  
 
-Pat N, Want Y, Stringaris (2022) A Longitudinally stable, brain-based predictive models explain the relationships of childhood intelligence with socio-demographic, psychological and genetic factors Human Brain Mapping (in press)
+Pat N, Want Y, Stringaris A (2022) A Longitudinally stable, brain-based predictive models explain the relationships of childhood intelligence with socio-demographic, psychological and genetic factors Human Brain Mapping (in press)
 
 Rimfeld K, Malanchini M, Arathimos R, ...Stringaris A, von Stumm S, Lewis CM, Plomin R (2022) The consequences of a year of the COVID-19 pandemic for the mental health of young adult twins in England and Wales. BJPsych Open (in press)
 
