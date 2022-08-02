@@ -559,7 +559,7 @@ ways.
 ### Publications  
 
 **Bibliographic Overview**  
-h-index 53, n_citations = 12320 (Google Scholar May 2022)
+h-index 54, n_citations = 12454 (Google Scholar July 2022)
 
 **Monographs**
 
