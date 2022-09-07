@@ -10,10 +10,10 @@ output:
 **Professor and Chair of Child & Adolescent Psychiatry at University College London**
 
 
-email: <argyris.stringaris@nih.gov>  
+email: <a.stringaris@ucl.ac.uk>  
 Address for Correspondence: 1-19 Torrington Pl, London WC1E 7HB, United Kingdom
 
-Date: May 2022
+Date: September 2022
 
 ### Overview
 
@@ -25,7 +25,7 @@ In terms of basic research, my aim is to understand how affective phenomena (var
 
 In terms of clinical research, I study interventions that reduce the negative impact that affective phenomena, particularly depression, have on young people and families.
 
-I am 47 years old, a husband and father of three daughters. I row
+I am 47-years old, a husband and father of three daughters. I row
 competitively on Concept2 and read hard-copy books.
 
 Here is a [list of my
@@ -140,25 +140,26 @@ Camden & Islington NHS Foundation Trust
   - Editorial Board (2015 ongoing): Journal of the American Academy of
     Child & Adolescent Psychiatry
 
-**Taskforce and Scientific Board Memberships** I have been invited to
-participate as a member or scientific advisor in the following:
-  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. 
-  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of PoVErty
-    (ALIVE), a Wellcome trust-funded international project. 
+**Taskforce and Scientific Board Memberships**   
+
+  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry        
+    Network.   
+  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of 
+    PoVErty (ALIVE), a Wellcome trust-funded international project. 
   - Scientific Board European Society of Child and Adolescent Psychiatry (ESCAP)
-  - Member of European ADHD Guidelines Group (EAGG)
+  - Member of European ADHD Guidelines Group (EAGG)  
   - Member of the American Academy of Child and Adolescent Psychiatry Presidential
     Initiative Task Force on Emotion Regulation in Children : “Coming
     Together to Treat the Sickest Kids”- I was appointed chair of the
-    Measurement Subcommittee
+    Measurement Subcommittee  
   - Member of the Program Committee for the American Academy of Child
-    and Adolescent Psychiatry (AACAP) Annual meeting 2021
-  - Scientific Advisory Board MQ The Mental Health Charity, UK
+    and Adolescent Psychiatry (AACAP) Annual meeting 2021  
+  - Scientific Advisory Board MQ The Mental Health Charity, UK  
   - Member of the Task Force on Child and Youth Psychiatry of the World Federation of
-    Societies of Biological Psychiatry (WFSBP)
+    Societies of Biological Psychiatry (WFSBP)  
   - Scientific Advisory Board Advisory Board for the Medical Research
     Council UK initiative in Adolescence, Mental Health and the
-    Developing Mind
+    Developing Mind  
 
 ### Prizes
   - 2021 Open Neuro Hall of Fame, tied 2nd Place for contributing datasets
@@ -193,15 +194,19 @@ participate as a member or scientific advisor in the following:
     Association
   - 2004 European Science Foundation Young Scientist Travel Award
 
-### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia (examples)
-  -Chair: ADHD. Life-time continuity, serious mental illness, and genetics World Psychiatric Association Thematic Conference, Athens, Greece
-  - Guest Speaker and Panelist Pediatric Major Depressive Disorder Mini-Symposium,  Co-hosted by the Division of Pediatric and Maternal Health and the Division of Psychiatry Office of New Drugs | Center for Drug Evaluation & Research | U.S. Food and Drug Administration (FDA), (June 2022) Bethesda, MD, USA
-  - Keynote Lecture (Lettura Magistrale) at the joint meeting of the Italian Societies of Neuropsychopharmacology       and Child & Adolescent Psychiatry (May 2022), Cagliari, Italy, Title: What is mood and how to modify it
-  - Keynote Lecture (Hauptvortrag) at the German Society for Child and Adolescent Psychiatry (Deutsche Gesellschaft     für Kinder un      Jugendpsychiatrie, DGKJP, May 2022), Magdeburg Germany, Title: Warum gibt es Depression
-  - Annual Distinguished Scientist Lecture at Pittsburgh University (April 2022) The Why and     How of Mood:           Theoretical and Computational Approaches for Clinicians and Researchers in      Depression. 
+### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia
+  - Chair: ADHD. Life-time continuity, serious mental illness, and genetics World Psychiatric             Association Thematic Conference, Athens, Greece   
+  - Guest Speaker and Panelist Pediatric Major Depressive Disorder Mini-Symposium,  Co-hosted by the      Division of Pediatric and Maternal Health and the Division of Psychiatry Office of New Drugs |        Center for Drug Evaluation & Research | U.S. Food and Drug Administration (FDA), (June 2022)          Bethesda, MD, USA  
+  - Keynote Lecture (Lettura Magistrale) at the joint meeting of the Italian Societies of         
+    Neuropsychopharmacology and Child & Adolescent Psychiatry (May 2022), Cagliari, Italy, 
+    Title: What is     mood and how to modify it  
+  - Keynote Lecture (Hauptvortrag) at the German Society for Child and Adolescent Psychiatry (Deutsche     Gesellschaft     für Kinder un      Jugendpsychiatrie, DGKJP, May 2022), Magdeburg Germany, Title:     Warum gibt es Depression  
+  - Annual Distinguished Scientist Lecture at Pittsburgh University (April 2022) The Why and     How      of Mood:Theoretical and Computational Approaches for Clinicians and Researchers in          
+    Depression.   
   - Opening Lecture at the European College of Neuropsychopharmacology (ENCP) at    
     Servolo,Venice (March 2022) Challenges and New Directions in Affective Nosology
-  - Grand Rounds at Cornell University Department of Psychiatry (February 2022) What is mood?     A conceptual and      computational account of some basic questions about depression. 
+  - Grand Rounds at Cornell University Department of Psychiatry (February 2022) What is mood?     A 
+    conceptual and      computational account of some basic questions about depression. 
   - Chair Symposium Irritability and Reactive Aggression: Implications
     for Diagnosis, Treatment, and Equity, American Academy of Child and
     Adolescent Psychiatry, October 2021
@@ -268,18 +273,25 @@ participate as a member or scientific advisor in the following:
 
 ### Grants
 
-  - Title: Regulating Emotions - Strengthening Adolescent Resilience
-    (RE-STAR, Identifying Number: MR/W002493/1:)  
-    Position: Co-PI  
-    Funding Body: UK Research and Innovation (UKRI)  
-    Amount: £ 3,3 Million  
-    Dates: 2021 to FY 2025
+### Grants
 
+  - Title: 4M: Microbes, Milk, Mental Health and Me; how do early life gut microbiota and feeding         shape long- term mental health in the C-GULL Cohort?
+    Position: Co-Investigator (5% of my time) 
+    Funding Body: Wellcome Trust 
+    Amount: £6,923,603.00
+    Dates: FY23 to FY 28
+
+  - Title: Respecting Affective Diversity in Adolescence (RADIANCE)
+    Position: Principal Investigator  
+    Funding Body:Medical Research Council  
+    Amount: Not Funded
+    
   - Title: Characterization and Treatment of Adolescent Depression
     (Identifying Number: ZIA MH002957-03)  
     Position: Principal Investigator  
     Funding Body: National Institutes of Mental Health  
-    Amount: $ 12,7 Million Dates: FY18 to FY 22
+    Amount: $ 12,7 Million 
+    Dates: FY18 to FY 22
 
   - Title: Scoping review to systematically map the literature relating
     to the effects of SSRI treatment in young people aged 14-24 years
@@ -369,7 +381,6 @@ participate as a member or scientific advisor in the following:
     Fellowship  
     Amount: £439,243  
     Awarded: April 2011
-
 ### Mentorship and Teaching  
 
 **Mentorship Awards**  
@@ -638,6 +649,10 @@ Tasks that is Moderated by Depression, Psyarxiv preprint
 **Journal Publications (as listed in PubMed)**  
 
 Pat N, Want Y, **Stringaris A** (2022) A Longitudinally stable, brain-based predictive models explain the relationships of childhood intelligence with socio-demographic, psychological and genetic factors Human Brain Mapping (in press)
+
+Chavanne AV, Paillère Martinot PL, Pentilä J...**Stringaris A**...Martinot JL, Artiges E. (2022) Anxiety onset in adolescents: a machine-learning prediction. Molecular Psychiatry (in press)
+
+Tan A, Harrewijn A, Benson B, ...,**Stringaris A**, ... Pine D, Fox NA (2022) Striatal Activity to Reward Anticipation as a Moderator of the Relation Between Early Behavioral Inhibition and Changes in Anxiety and Depressive Symptoms from Adolescence to Adulthood JAMA Psychiatry (in press)
 
 Tetereva A, Li J, Deng J, **Stringaris A**, Pat N (2022) Integrating Task-Based Functional MRI Across Tasks Markedly Boosts Prediction and Reliability of Brain-Cognition Relationship. NeuroImage (in press)
 
