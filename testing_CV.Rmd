@@ -1,9 +1,4 @@
----
-title: "testing_cv"
-author: "Argyris Stringaris"
-date: "25/08/2022"
-output: html_document
----
+
 ---
 output:
   html_document: default
@@ -13,13 +8,18 @@ output:
 
 ## Curriculum Vitae of Argyris Stringaris, MD, PhD, FRCPsych
 
+```{r,echo=FALSE, out.width = "20%", fig.align = "right", out.extra='style="float:right; padding:5px"'}
+knitr::include_graphics("/Users/stringarisa/Downloads/argyris_stringaris_ucl.jpeg"
+                        )
+```
+
 **Professor and Chair of Child & Adolescent Psychiatry at University College London**
 
-
-email: <argyris.stringaris@nih.gov>  
+<a.stringaris@ucl.ac.uk>  
 Address for Correspondence: 1-19 Torrington Pl, London WC1E 7HB, United Kingdom
 
-Date: May 2022
+Version: `r today <- Sys.Date()
+format(today, format="%B %d %Y")`
 
 ### Overview
 
@@ -31,17 +31,19 @@ In terms of basic research, my aim is to understand how affective phenomena (var
 
 In terms of clinical research, I study interventions that reduce the negative impact that affective phenomena, particularly depression, have on young people and families.
 
-I am 47 years old, a husband and father of three daughters. I row
+I am `r diff_days <- Sys.Date() - as.Date("1974-08-27")
+round(diff_days/365[[1]])` years old, a husband and father of three daughters. I row
 competitively on Concept2 and read hard-copy books.
 
-Here is a [list of my
+My h-index = `r library(scholar) 
+predict_h_index("9B82424AAAAJ")[1,2]` and here is a [list of my
 publications](https://pubmed.ncbi.nlm.nih.gov/?term=stringaris+a&sort=date)
 and here is my [Google Scholar
 page](https://scholar.google.com/citations?user=9B82424AAAAJ&hl=en&oi=ao).
 
 ### Current Positions
 
-**Professor of Child and Adolescent Psychiatry**
+**Professor of Child and Adolescent Psychiatry**  
 Department of Psychiatry and Department of Clinical, Educational & Health Psychology
 University College London
 
@@ -148,6 +150,7 @@ Camden & Islington NHS Foundation Trust
 
 **Taskforce and Scientific Board Memberships** I have been invited to
 participate as a member or scientific advisor in the following:
+  
   - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. 
   - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of       PoVErty
     (ALIVE), a Wellcome trust-funded international project. 
@@ -199,7 +202,8 @@ participate as a member or scientific advisor in the following:
     Association
   - 2004 European Science Foundation Young Scientist Travel Award
 
-### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia (examples)
+### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia (examples)  
+  - Speaker EUNETHYDIS Conference. Emotion dysregulation in ADHD: revisting an old debate, September 2022, Cardiff, UK.
   -Chair: ADHD. Life-time continuity, serious mental illness, and genetics World Psychiatric Association Thematic Conference, Athens, Greece
   - Guest Speaker and Panelist Pediatric Major Depressive Disorder Mini-Symposium,  Co-hosted by the Division of Pediatric and Maternal Health and the Division of Psychiatry Office of New Drugs | Center for Drug Evaluation & Research | U.S. Food and Drug Administration (FDA), (June 2022) Bethesda, MD, USA
   - Keynote Lecture (Lettura Magistrale) at the joint meeting of the Italian Societies of Neuropsychopharmacology       and Child & Adolescent Psychiatry (May 2022), Cagliari, Italy, Title: What is mood and how to modify it
@@ -283,7 +287,7 @@ participate as a member or scientific advisor in the following:
   - Title: Respecting Affective Diversity in Adolescence (RADIANCE)  
     Position: Principal Investigator    
     Funding Body:Medical Research Council    
-    Amount: Not Funded  
+    Amount: £935,00 (not funded)  
     
 
   - Title: Characterization and Treatment of Adolescent Depression
@@ -569,86 +573,25 @@ ways.
 
 
 ### Publications  
-
-**Bibliographic Overview**  
-h-index 54, n_citations = 12454 (Google Scholar July 2022)
-
 **Monographs**
-
 **Stringaris** A & Taylor E (2015). Disruptive Mood: Irritability in
 Children and Adolescents. New York: Oxford University Press.
-
-**Book Chapters**
-
-1 Prabhakar J, Nielson DM, **Stringaris** (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer 
-
-2 O’Callaghan, G. & **Stringaris**, A (2019) Reward Processing in
-Adolescent Depression. In C Harmer & T. Baune (Eds.) Cognitive
-Dimensions of Major Depressive Disorder, Oxford University Press
-
- **Stringaris**, A., & Vidal-Ribas, P. (2018). Disruptive Mood
-Dysregulation Disorder. In M. Ebert, J. Leckman & I. Petrakis (Eds.),
-Current Diagnosis & Treatment Psychiatry (Third ed.): Lange Medical
-Books/McGraw-Hill.
-
-4 Zahredine N, **Stringaris** A (2018) Bipolar Illness in Children and
-Adolescents, The Maudsley Prescribing Guidelines, Ed Taylor D, Barnes
-TRE, Young AH. Wiley Blackwell
-
-5 Vidal-Ribas, P., & **Stringaris**, A. (In press). Irritability in Mood
-and Anxiety Disorders. In A. K. Roy, M. A. Brotman & E. Leibenluft
-(Eds.), Irritability in Pediatric Psychopathology: Oxford University
-Press.
-
-6 Oxley C, **Stringaris** A (2018) Comorbidity of Depression and Anxiety
-with ADHD. In Oxford Textbook of Attention Deficit Hyperactivity
-Disorder. Ed. Banaschewski T, Coghill D, Zuddas A. Oxford University
-Press
-
-7 Mulraney M, **Stringaris** A, Taylor A (2018). Irritability,
-disruptive mood and ADHD. In Oxford Textbook of Attention Deficit
-Hyperactivity Disorder. Ed. Banaschewski T, Coghill D, Zuddas A. Oxford
-University Press
-
-8 Krieger FV and **Stringaris** A (2015). Temperament and Vulnerability
-to Externalizing Behavior in The Oxford Handbook of Externalizing
-Spectrum Disorders, Eds. Beauchaine TP and Hinshaw S. New York: Oxford
-University Press.
-
-9 **Stringaris** A (2015). Emotion regulation and emotional disorders:
-conceptual issues for clinicians and neuroscientists in Rutter’s Child
-and Adolescent Psychiatry, Sixth Edition, Eds. Thapar A, Pine DS,
-Leckman JF, Scott S, Snowling MJ, Taylor EA. Oxford: Wiley-Blackwell.
-
-10 **Stringaris** AK, Asherson P (2008). Molecular Genetics in Child
-Psychiatry in Advances in Biological Child Psychiatry, Eds. Rohde LA,
-Banaschewski, T. Basel: Karger Publishing.
-
-11 Giora R, **Stringaris** AK (2008). Neural Substrates of Metaphors in
-The Cambridge Encyclopedia of the Language Sciences (CELS), Ed. Hogan
-PC. New York: Cambridge University Press.
-
 
 
 **Book Editorship**
 
-1 Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S,
-Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and
-Psychology, Oxford, UK: Wiley Blackwell
+```{r, echo=FALSE, message=FALSE,warning = FALSE}
 
-2 Broome MR, Harland R, Owen GS, **Stringaris** A (2012). The Maudsley
-Reader in Phenomenological Psychiatry. Cambridge, UK: Cambridge
-University Press.
-
-**Publications as Preprints**
-
-1 Jangraw DC, Keren H, Bedder RL, Rutledge RB, Perreira F, Thomas AG,
-Pine DS, Zheng C, Nielson, DM , **Stringaris** A (2021) Passage-of-Time
-Dysphoria: A Highly Replicable Decline in Mood During Rest and Simple
-Tasks that is Moderated by Depression, Psyarxiv preprint
+library(tidyverse)
+Editorships <- c("Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S, Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and Psychology, Oxford, UK: Wiley Blackwell", "Broome MR, Harland R, Owen GS, **Stringaris** A (2012). The Maudsley Reader in Phenomenological Psychiatry. Cambridge, UK: Cambridge University Press")
+data.frame(1:length(Editorships),Editorships) %>% 
+  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
+```
 
 
-```{r}
+
+**Book Chapters**
+```{r, echo = FALSE, , message=FALSE}
 library(tidyverse)
 Chapters <- c("Prabhakar J, Nielson DM, Stringaris (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer",
         
@@ -674,19 +617,28 @@ Chapters <- c("Prabhakar J, Nielson DM, Stringaris (2022) Origins of Anhedonia i
 )
 
 
-data.frame(Chapters) %>% 
-  knitr:: kable("simple")
+data.frame(1:length(Chapters),Chapters) %>% 
+  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
 
 ```
 
+**Publications as Preprints**  
+```{r, echo=FALSE, message=FALSE,warning = FALSE}
+library(tidyverse)
+pre_prints <- c("Jangraw DC, Keren H, Bedder RL, Rutledge RB, Perreira F, Thomas AG,Pine DS, Zheng C, Nielson, DM , **Stringaris** A (2021) Passage-of-Time Dysphoria: A Highly Replicable Decline in Mood During Rest and Simple Tasks that is Moderated by Depression, Psyarxiv preprint")
+data.frame(1:length(pre_prints),pre_prints) %>% 
+  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
+```
 
 
 **Journal Publications**  
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(stringr)
 library(tidyverse)
 
-test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (3).csv")
+test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (5).csv") # still getting these manually for the moment
+                                                                   # simply put "stringaris a" into Pubmed and ask for all                                                                      #  results and download as .csv
+                                                                    
 test_pub_med$Authors <- str_replace_all(test_pub_med$Authors, "Stringaris", "**Stringaris**") 
 
 
@@ -696,17 +648,19 @@ test_pub_med<- test_pub_med %>%
 
 
 test_pub_med$number_of_row <- seq.int(nrow(test_pub_med))
+# to italicise journal titles
+test_pub_med$Journal.Book <- paste0("_", test_pub_med$Journal.Book, "_")
 
 PubMed <- 0# matrix(NA, nrow = nrow(test_pub_med), ncol = 1)
 for (i in 1: nrow(test_pub_med)){
 PubMed[i]<-paste0(test_pub_med$Authors[i], " ", "(", test_pub_med$Publication.Year[i], ")", " ", test_pub_med$Title[i], " ", test_pub_med$Journal.Book[i], " ", "PMID:", test_pub_med$PMID[i])
   }
 
-PubMed <- data.frame(PubMed)
 
-#print.table(test)
+
+
+# PubMed <- as.list(PubMed)
 data.frame(PubMed) %>% 
- knitr:: kable("pipe") 
+ knitr:: kable("pipe", row.names = 1: length(PubMed), col.names = "")
 
 ```
-
