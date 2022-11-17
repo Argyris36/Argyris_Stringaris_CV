@@ -13,7 +13,7 @@ output:
 email: <a.stringaris@ucl.ac.uk>  
 Address for Correspondence: 1-19 Torrington Pl, London WC1E 7HB, United Kingdom
 
-Date: September 2022
+Date: October 2022
 
 ### Overview
 
@@ -195,6 +195,7 @@ Camden & Islington NHS Foundation Trust
   - 2004 European Science Foundation Young Scientist Travel Award
 
 ### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia
+  - Speaker EUNETHYDIS Conference. Emotion dysregulation in ADHD: revisting an old debate, September 2022, Cardiff, UK.
   - Chair: ADHD. Life-time continuity, serious mental illness, and genetics World Psychiatric             Association Thematic Conference, Athens, Greece   
   - Guest Speaker and Panelist Pediatric Major Depressive Disorder Mini-Symposium,  Co-hosted by the      Division of Pediatric and Maternal Health and the Division of Psychiatry Office of New Drugs |        Center for Drug Evaluation & Research | U.S. Food and Drug Administration (FDA), (June 2022)          Bethesda, MD, USA  
   - Keynote Lecture (Lettura Magistrale) at the joint meeting of the Italian Societies of         
@@ -651,6 +652,8 @@ Tasks that is Moderated by Depression, Psyarxiv preprint
 Pat N, Want Y, **Stringaris** A (2022) A Longitudinally stable, brain-based predictive models explain the relationships of childhood intelligence with socio-demographic, psychological and genetic factors Human Brain Mapping (in press)
 
 Chavanne AV, Paillère Martinot PL, Pentilä J...**Stringaris** A...Martinot JL, Artiges E. (2022) Anxiety onset in adolescents: a machine-learning prediction. Molecular Psychiatry (in press)
+
+Nees F, .... **Stringaris A**, ... Poustka, L (2022) Global and Regional Structural Differences and Prediction of Autistic Traits during Adolescence. Brain Sci, in press.
 
 Tan A, Harrewijn A, Benson B, ...,**Stringaris** A, ... Pine D, Fox NA (2022) Striatal Activity to Reward Anticipation as a Moderator of the Relation Between Early Behavioral Inhibition and Changes in Anxiety and Depressive Symptoms from Adolescence to Adulthood JAMA Psychiatry (in press)
 

@@ -1,9 +1,10 @@
 
 ---
 output:
-  html_document: default
-  word_document: default
-  pdf_document: default
+  html_document:
+    df_print: paged
+  pdf_document:
+    keep_tex: yes
 ---
 
 ## Curriculum Vitae of Argyris Stringaris, MD, PhD, FRCPsych
@@ -150,7 +151,6 @@ Camden & Islington NHS Foundation Trust
 
 **Taskforce and Scientific Board Memberships** I have been invited to
 participate as a member or scientific advisor in the following:
-  
   - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. 
   - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of       PoVErty
     (ALIVE), a Wellcome trust-funded international project. 
@@ -169,7 +169,8 @@ participate as a member or scientific advisor in the following:
     Council UK initiative in Adolescence, Mental Health and the
     Developing Mind
 
-### Prizes
+### Prizes and Distinctions
+  - 2022 Highly Cited Researcher Clarivate Analytics
   - 2021 Open Neuro Hall of Fame, tied 2nd Place for contributing datasets
   - 2021 Kramer Pollnow Prize Award for scientific excellence in clinical research in   
     child,adolescent
@@ -431,8 +432,12 @@ I have recently received two prizes for my mentorship at NIH, namely the
   - Dr Pablo Vidal-Ribas: PhD awarded “without corrections” March 2019
     Awarded one of the 2019 Outstanding PhD Thesis Prizes from King’s
     College London.
+    
+**Doctoral Students**
+I currently supervise two Psychology Doctoral Students
 
 **MSc Students**
+I supervise students for the UCL Child and Adolescent Mental Health course
 
 I have mentored between 2009-2015 nine MSc students for the course in
 Child and Adolescent Psychiatry at King’s College London. Many of them
@@ -448,13 +453,21 @@ several of them joining prestigious courses in medicine in the US
 (e.g. Ms Lisa Gorham, Washington University at St Louis), Clinical
 Psychology or Psychology courses (e.g. Mr Chris Camp, Yale University).
 
+
+**Undergraduate Stduent**
+
+I supervise students for the Psychology BSc and am mentor to another two students  
+
+
 ### Taught Courses and other Supervision
 
-  - Exam marker at UCL's Depression and Anxiety MSc module
+  - Lecturer for the UCL Child and Adolescent Mental Health MSc course  
   
-  - Lecturer at UCL's Child and Adolescent Mental Health MSc
+  - Lecturer for the UCL Child and Adolescent Mental Health Module of MSc Psychiatry course  
+
+  - Exam marker at UCL's Depression and Anxiety MSc module  
   
-  - Dissertation Supervisor at UCL's Child and Adolescent Mental Health MSc
+  - Dissertation Supervisor at UCL's Child and Adolescent Mental Health MSc  
   
   - Academic Training Director for Trainees in Child Psychiatry. I had
     volunteered to be the Academic Director of the Maudsley Hospital’s
@@ -593,11 +606,11 @@ data.frame(1:length(Editorships),Editorships) %>%
 **Book Chapters**
 ```{r, echo = FALSE, , message=FALSE}
 library(tidyverse)
-Chapters <- c("Prabhakar J, Nielson DM, Stringaris (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer",
+Chapters <- c("Prabhakar J, Nielson DM, **Stringaris** (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer",
         
-"O’Callaghan, G. & Stringaris, A (2019) Reward Processing in Adolescent Depression. In C Harmer & T. Baune (Eds.) Cognitive Dimensions of Major Depressive Disorder, Oxford University Press",
+"O’Callaghan, G. &  **Stringaris **, A (2019) Reward Processing in Adolescent Depression. In C Harmer & T. Baune (Eds.) Cognitive Dimensions of Major Depressive Disorder, Oxford University Press",
  
- "Stringaris, A., & Vidal-Ribas, P. (2018). Disruptive Mood Dysregulation Disorder. In M. Ebert, J. Leckman & I. Petrakis (Eds.), Current Diagnosis & Treatment Psychiatry (Third ed.): Lange Medical Books/McGraw-Hill.",
+ " **Stringaris **, A., & Vidal-Ribas, P. (2018). Disruptive Mood Dysregulation Disorder. In M. Ebert, J. Leckman & I. Petrakis (Eds.), Current Diagnosis & Treatment Psychiatry (Third ed.): Lange Medical Books/McGraw-Hill.",
 
 "Zahredine N, **Stringaris** A (2018) Bipolar Illness in Children and Adolescents, The Maudsley Prescribing Guidelines, Ed Taylor D, Barnes TRE, Young AH. Wiley Blackwell",
 
@@ -622,10 +635,10 @@ data.frame(1:length(Chapters),Chapters) %>%
 
 ```
 
-**Publications as Preprints**  
+**Publications accepted**  
 ```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(tidyverse)
-pre_prints <- c("Jangraw DC, Keren H, Bedder RL, Rutledge RB, Perreira F, Thomas AG,Pine DS, Zheng C, Nielson, DM , **Stringaris** A (2021) Passage-of-Time Dysphoria: A Highly Replicable Decline in Mood During Rest and Simple Tasks that is Moderated by Depression, Psyarxiv preprint")
+pre_prints <- c("Jangraw DC, Keren H, Bedder RL, Rutledge RB, Perreira F, Thomas AG,Pine DS, Zheng C, Nielson, DM , **Stringaris** A (2021) A Highly Replicable Decline in Mood During Rest and Simple Tasks, _Nature Human Behaviour_")
 data.frame(1:length(pre_prints),pre_prints) %>% 
   knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
 ```
