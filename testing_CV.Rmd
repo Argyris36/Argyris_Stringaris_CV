@@ -45,7 +45,7 @@ page](https://scholar.google.com/citations?user=9B82424AAAAJ&hl=en&oi=ao).
 ### Current Positions
 
 **Professor of Child and Adolescent Psychiatry**  
-Department of Psychiatry and Department of Clinical, Educational & Health Psychology
+Division of Psychiatry and Department of Clinical, Educational & Health Psychology
 University College London
 
 ### Other positions
@@ -149,10 +149,10 @@ Camden & Islington NHS Foundation Trust
   - Editorial Board (2015 ongoing): Journal of the American Academy of
     Child & Adolescent Psychiatry
 
-**Taskforce and Scientific Board Memberships** I have been invited to
-participate as a member or scientific advisor in the following:
-  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. 
-  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of       PoVErty
+**Taskforce and Scientific Board Memberships** 
+  
+  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network.   
+  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of       PoVErty  
     (ALIVE), a Wellcome trust-funded international project. 
   - Scientific Board European Society of Child and Adolescent Psychiatry (ESCAP)
   - Member of European ADHD Guidelines Group (EAGG)
@@ -278,7 +278,31 @@ participate as a member or scientific advisor in the following:
   - Invited Lecture, Harvard Dept Psychology, February 2011
 
 ### Grants
-
+  
+  - Title:Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in  Young People  
+  Position: PI  
+  Funding Body: Wellcome Trust  
+  Amount:£3,015,694.19  
+  Outcome: pending  
+  
+  - Title: How does the SSRI fluoxetine work in adolescent depression?  
+  Position: Co-I and site PI (overall PI Prof Harmer London)  
+  Funding Body: Wellcome Trust  
+  Amount:£2,570,720.00  
+  Outcome: pending  
+    
+  - Title:NIHR/HTA 22/88 Repetitive Transcranial Magnetic Stimulation for depression in adolescents 
+  Position: Co-I and site PI (overall PI Dr Rogers, Birmingham)  
+  Funding Body: National Institute of Health Research
+  Amount:£118,139.74
+  Outcome: pending   
+    
+   - Title: Amending and Upgrading Guidance for boosting MENTal health in young people (AUGMENT)  
+  Position: Co-I and site PI (overall PI Prof Buitelaar Nijmegen)  
+  Funding Body: European Union, Horizon 2020
+  Amount:£405,104.33 
+  Outcome: pending   
+  
   - Title: 4M: Microbes, Milk, Mental Health and Me; how do early life gut microbiota and feeding shape     long- term mental health in the C-GULL Cohort?  
     Position: Co-Investigator (5% of my time)   
     Funding Body: Wellcome Trust   
