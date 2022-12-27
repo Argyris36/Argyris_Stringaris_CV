@@ -146,7 +146,7 @@ Camden & Islington NHS Foundation Trust
   - Consulting Editor Cognitive Affective and Behavioral Neuroscience
     (2021 - ongoing)
   - Editor (2012-2019) Journal of Child Psychology and Psychiatry
-  - Editorial Board (2015 ongoing): Journal of the American Academy of
+  - Editorial Board (2015 - 2020): Journal of the American Academy of
     Child & Adolescent Psychiatry
 
 **Taskforce and Scientific Board Memberships** 
@@ -283,13 +283,13 @@ Camden & Islington NHS Foundation Trust
   Position: PI  
   Funding Body: Wellcome Trust  
   Amount:£3,015,694.19  
-  Outcome: pending  
+  Outcome: awarded December 2022 
   
   - Title: How does the SSRI fluoxetine work in adolescent depression?  
   Position: Co-I and site PI (overall PI Prof Harmer London)  
   Funding Body: Wellcome Trust  
   Amount:£2,570,720.00  
-  Outcome: pending  
+  Outcome: awarded December 2022  
     
   - Title:NIHR/HTA 22/88 Repetitive Transcranial Magnetic Stimulation for depression in adolescents 
   Position: Co-I and site PI (overall PI Dr Rogers, Birmingham)  
@@ -301,7 +301,7 @@ Camden & Islington NHS Foundation Trust
   Position: Co-I and site PI (overall PI Prof Buitelaar Nijmegen)  
   Funding Body: European Union, Horizon 2020
   Amount:£405,104.33 
-  Outcome: pending   
+  Outcome: not funded
   
   - Title: 4M: Microbes, Milk, Mental Health and Me; how do early life gut microbiota and feeding shape     long- term mental health in the C-GULL Cohort?  
     Position: Co-Investigator (5% of my time)   
@@ -531,7 +531,7 @@ I supervise students for the Psychology BSc and am mentor to another two student
     (many of whom were practitioners).
 
   - Organization of Faculty Retreats. I have been an active member of
-    the Faculty Retreat Committee and has so far given talks at three
+    the NIH Faculty Retreat Committee and has so far given talks at three
     out of the four faculty retreats that have happened since my arrival
     at NIMH.
 
@@ -673,7 +673,7 @@ data.frame(1:length(pre_prints),pre_prints) %>%
 library(stringr)
 library(tidyverse)
 
-test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (5).csv") # still getting these manually for the moment
+test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (6).csv") # still getting these manually for the moment
                                                                    # simply put "stringaris a" into Pubmed and ask for all                                                                      #  results and download as .csv
                                                                     
 test_pub_med$Authors <- str_replace_all(test_pub_med$Authors, "Stringaris", "**Stringaris**") 
