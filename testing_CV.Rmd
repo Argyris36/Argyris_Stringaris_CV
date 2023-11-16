@@ -1,36 +1,40 @@
 
 ---
 output:
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: yes
   html_document:
     df_print: paged
-  pdf_document:
-    keep_tex: yes
+  word_document: default
+urlcolor: blue
+
 ---
 
-## Curriculum Vitae of Argyris Stringaris, MD, PhD, FRCPsych
+## Curriculum Vitae of Argyris Stringaris, MD, PhD, FRCPsych 
+                                      
 
-```{r,echo=FALSE, out.width = "20%", fig.align = "right", out.extra='style="float:right; padding:5px"'}
-knitr::include_graphics("/Users/stringarisa/Downloads/argyris_stringaris_ucl.jpeg"
-                        )
-```
-
-**Professor and Chair of Child & Adolescent Psychiatry at University College London**
+  
+**Professor of Child & Adolescent Psychiatry, University College London**
 
 <a.stringaris@ucl.ac.uk>  
-Address for Correspondence: 1-19 Torrington Pl, London WC1E 7HB, United Kingdom
+1-19 Torrington Pl, London WC1E 7HB, United Kingdom  
+my UCL [website](https://www.ucl.ac.uk/psychiatry/professor-argyris-stringaris)  
+AIM lab's [website](https://www.ucl.ac.uk/pals/research/clinical-educational-and-health-psychology/research-groups/aim-lab) and [github](https://github.com/transatlantic-comppsych)  
+AIM clinic's [website](https://www.ucl.ac.uk/university-clinic/about-university-clinic/clinical-services/anxiety-self-image-and-mood-aim-clinic)
 
-Version: `r today <- Sys.Date()
+                                          `r today <- Sys.Date()
 format(today, format="%B %d %Y")`
 
 ### Overview
 
-I am a clinician and neuroscientist. I was appointed Chair of Child and Adolescent Psychiatry at UCL in January 2022. Until then, I was Senior Investigator and Chief of the Section of Clinical and Computational Psychiatry at NIMH/NIH in the USA and before that a Senior Lecturer and a Wellcome Trust Fellow at the Institute of Psychiatry Psychology and Neuroscience, King's College London. I trained in Child and Adolescent Psychiatry at the Maudsley Hospital.
+I am a clinician and neuroscientist and the Chair of Child and Adolescent Psychiatry at UCL since January 2022 and I am a Co-Director of the AIM lab and clinic at UCL. I am also one of UCL's Pro-Vice-Provosts co-leading the Grand Challenges for Mental Health and Wellbeing. I was until 2022 Senior Investigator and Chief of the Section of Clinical and Computational Psychiatry at NIMH/NIH in the USA and before that a Senior Lecturer and a Wellcome Trust Fellow at the Institute of Psychiatry Psychology and Neuroscience, King's College London. I trained in Child and Adolescent Psychiatry at the Maudsley Hospital.
 
-I have two main research aims.
+I have two main research aims that I pursue using open science practices including data and code sharing.
 
-In terms of basic research, my aim is to understand how affective phenomena (variably termed moods, emotions, feelings or affects) are generated and maintained.
+In terms of basic research, my aim is to understand how affective phenomena (variably termed moods, emotions, feelings or affects) are generated and maintained. Two recent examples of this line of our work can be found [here](https://www.nature.com/articles/s41562-023-01519-7#:~:text=In%20this%20study%2C%20we%20describe,simple%20tasks%20or%20rest%20periods.) and [here](https://elifesciences.org/articles/62051). Currently we are funded by the Wellcome Trust to study surprises (prediction errors) as a mechanism of improvement in social anxiety.
 
-In terms of clinical research, I study interventions that reduce the negative impact that affective phenomena, particularly depression, have on young people and families.
+In terms of clinical research, I study interventions that reduce the negative impact that affective phenomena, have on young people and families and possible interventions. For an example of work about suicidality please see [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8016742/) and for some work on interventions, see [here](https://www.jaacap.org/article/S0890-8567(19)30349-1/fulltext).
 
 I am `r diff_days <- Sys.Date() - as.Date("1974-08-27")
 round(diff_days/365[[1]])` years old, a husband and father of three daughters. I row
@@ -42,23 +46,32 @@ publications](https://pubmed.ncbi.nlm.nih.gov/?term=stringaris+a&sort=date)
 and here is my [Google Scholar
 page](https://scholar.google.com/citations?user=9B82424AAAAJ&hl=en&oi=ao).
 
-### Current Positions
+* * * * *
+
+### Current Position
 
 **Professor of Child and Adolescent Psychiatry**  
 Division of Psychiatry and Department of Clinical, Educational & Health Psychology
-University College London
+University College London  
+Co-Director (with Dr Georgina Krebs) of Anxiety self-Image and Mood (AIM) [Lab](https://www.ucl.ac.uk/pals/research/clinical-educational-and-health-psychology/research-groups/aim-lab) and [Clinic](https://www.ucl.ac.uk/university-clinic/about-university-clinic/clinical-services/anxiety-self-image-and-mood-aim-clinic) at UCL.
 
-### Other positions
+**Pro-Vice-Provost UCL Grand Challenges in Mental Health and Wellbeing**  
+The UCL Grand Challenges programme was established in 2008, with the aim of bringing a cross-disciplinary, thematic approach to tackling some of the most pressing social problems. Together with my colleague Professor Essi Viding we are leading this programme recognising that mental health and wellbeing is one of the most pressing issues facing humanity and in the belief that UCL can contribute through research, education and practice.
+
+* * * * *
+  
+### Other Current Positions
 
 **Professor of Child and Adolescent Psychiatry**  
-University of Athens, Greece
-
+University of Athens, Greece  
 **Visiting Scientist and Head of the Clinical Neuroscience of Mood Disorders in Children and Adolescents**  
-Central Institute of Mental Health (Zentralinstitut für Seelische Gesundheit), Mannheim, Germany
+Central Institute of Mental Health (Zentralinstitut für Seelische Gesundheit), Mannheim, Germany  
+**Honorary Consultant Child & Adolescent Psychiatrist**    
+Camden & Islington NHS Foundation Trust  
+**Senior Clinical Advisor**
+Anna Freud Centre 
 
-
-**Honorary Consultant Child & Adolescent Psychiatrist** 
-Camden & Islington NHS Foundation Trust
+* * * * *
 
 ### Degrees and Training
 
@@ -68,50 +81,43 @@ Camden & Islington NHS Foundation Trust
     German medical students in the 5th Year medical final examinations
     (II Staatsexamen) and top 20% of all students in 6th Year
     examination (III Staatsexamen)
-    
-  - Registration with the UK General Medical Council: 6043066   
-  
+  - Registration with the UK General Medical Council: 6043066
   - Registration with the Maryland Board of Physicians by "Conceded Eminence": D48427
-  
   - Entry into the UK Specialist Register for Child and Adolescent Psychiatry (CCT): 2011
-  
   - Royal College of Psychiatrists Membership: 813569, Since 2018 a Fellow of the College.
-  
   - Formerly Section 12 approved (lapsed since in the USA)
-  
   - Hellenic Medical Council: Certified Specialist in Child and Adolescent Psychiatry
-
 
 **Research Training**
 
-  - PhD: King’s College London, University of London, UK, May 2011  
+  - PhD: King’s College London, University of London, UK, May 2011 (Supervisor: Prof Eric Taylor/Prof Robert Goodman) 
   - Research Fellow, Bipolar Spectrum Disorders, NIMH, USA, Jul 2008 –
-    Jul 2009  
-    
+    Jul 2009  (Supervisor: Dr Ellen Leibenluft)
   - Dr med (MD Research), Department of Neurology, University of
-    Göttingen, Germany, May 2000
+    Göttingen, Germany, May 2000 (Supervisor: Prof Roland Nau)
 
 **Training in Neurology and Psychiatry**
 
   - Aug 2006 – Apr 2011: Higher Specialist Training in Child and
     Adolescent Psychiatry, Maudsley Hospital and Great Ormond Street and
-    Royal London Rotation  
+    Royal London Rotation
   - Jul 2006: Membership, Royal College of Psychiatrists (MRCPsych,
-    London, UK)  
+    London, UK)
   - Oct 2003 - Aug 2006: Senior House Officer, Maudsley Hospital,
-    London, UK  
+    London, UK
   - Oct 2002 - Oct 2003: Senior House Officer, Maudsley Hospital,
-    London, UK and Institute of Psychiatry, London, UK  
+    London, UK and Institute of Psychiatry, London, UK
   - Jun 2000 - Oct 2002: Neurology and Medicine, University of
     Göttingen, Germany
 
-### Employment
+* * * * *
+
+### Previous Employment
 
   - August 2016 to 2021: Chief of Section of Clinical & Computational
     Psychiatry, NIMH, NIH
   - Jan 2012 - August 2016 Senior Lecturer 
-    Head of Mood and Development Laboratory Consultant Child and
-    Adolescent Psychiatrist (Attending Physician) Department of Child &
+    Head of Mood and Development Laboratory, Department of Child &
     Adolescent Psychiatry, Institute of Psychiatry, Psychology &
     Neuroscience, King’s College London & Maudsley Hospital London
   - Apr 2011 – August 2016: Consultant Psychiatrist at Maudsley Hospital
@@ -130,19 +136,38 @@ Camden & Islington NHS Foundation Trust
     NHS General Psychiatry Training Rotation, London, UK
   - Jun 2000 - Oct 2002: Senior House Officer (Assistenzarzt),
     Department of Neurology, University of Göttingen, Germany
+    
+* * * * *
 
 ### Scientific Leadership
+
+**Pro-Vice_Provost**  
+  
+  - UCL's Grand Challenges in Mental Health and Wellbeing together with Prof. Essi Viding
+
 
 **Presidency of International Organization**
 
   - President of the [International Society for
     Research in Child and Adolescent Psychopathology
     (ISRCAP)](https://isrcap.org/executive-committee.html)
+    Amongst other responsibilities, I am tasked with the organisation of the 2023 Conference of the Organsisation that is going to happen in London in June 2023.
+    
+**Chair of Government Committee**  
+
+  - Chair of the Mental Health Committee of the Surgeon General's Office (Kentriko Sumvoulio Ygeias) for the Greek State November 2020 - December 2022. I have chaired the committee that advises the Government on issues concerning mental health legislature. This invovlved the generation of reports to provide in depth scientific opinion on issues such as the regulation of psychotherapies in Greece, and most recently our opinion in favour of banning of so-called "conversion therapies", which was eventually enshrined in law. 
+  
+  - Member of the Steering Committee of the University Research Institute for Mental Health (EPIPSY) in Greece (January 2022 - ongoing) 
+  
+**Scientific Advisor to Charities**  
+    
+  - Chief Scientific Officer of Mazi Gia to Paidi, a leading Greek charity for children and young people with various activities around child health.
+
 
 **Journal Editorships**
 
   - Editor European Journal of Child and Adolescent Psychiatry (2021 -
-    ongoing)
+    March 2023)
   - Consulting Editor Cognitive Affective and Behavioral Neuroscience
     (2021 - ongoing)
   - Editor (2012-2019) Journal of Child Psychology and Psychiatry
@@ -150,31 +175,38 @@ Camden & Islington NHS Foundation Trust
     Child & Adolescent Psychiatry
 
 **Taskforce and Scientific Board Memberships** 
+
   
-  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network.   
-  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of       PoVErty  
-    (ALIVE), a Wellcome trust-funded international project. 
-  - Scientific Board European Society of Child and Adolescent Psychiatry (ESCAP)
-  - Member of European ADHD Guidelines Group (EAGG)
+  - Scientific Advisory Board Advisory Board for the Medical Research
+    Council UK initiative in Adolescence, Mental Health and the
+    Developing Mind (2021 - ongoing)
+  - Steering Committee International Consortium on Irritability (2022 - ongoing)
+  - Child Psychiatry Representative on Royal College of Psychiatry Psychopharmacology Committee (ongoing)
+  - Member of the Executive Board of the Royal College of Psychiatry Child and Adolescent Psychiatry Faculty.(2023 - ongoing)
+  - Member of the Board of the Hellenic Child Psychiatry Society (2023 - ongoing)
+  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. (2022 - ongoing)
+  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of PoVErty  
+    (ALIVE), a Wellcome Trust-funded international project. (ongoing)
+  - Scientific Board European Society of Child and Adolescent Psychiatry (ESCAP) (ongoing)
+  - Member of European ADHD Guidelines Group (EAGG) (ongoing)
   - Member of the American Academy of Child and Adolescent Psychiatry Presidential
     Initiative Task Force on Emotion Regulation in Children : “Coming
     Together to Treat the Sickest Kids”- I was appointed chair of the
-    Measurement Subcommittee
+    Measurement Subcommittee (until 2022)
   - Member of the Program Committee for the American Academy of Child
-    and Adolescent Psychiatry (AACAP) Annual meeting 2021
+    and Adolescent Psychiatry (AACAP) (Annual meeting 2021)
   - Scientific Advisory Board MQ The Mental Health Charity, UK
   - Member of the Task Force on Child and Youth Psychiatry of the World Federation of
-    Societies of Biological Psychiatry (WFSBP)
-  - Scientific Advisory Board Advisory Board for the Medical Research
-    Council UK initiative in Adolescence, Mental Health and the
-    Developing Mind
+    Societies of Biological Psychiatry (WFSBP) (ongoing)
+
+* * * * *
 
 ### Prizes and Distinctions
+  
   - 2022 Highly Cited Researcher Clarivate Analytics
   - 2021 Open Neuro Hall of Fame, tied 2nd Place for contributing datasets
-  - 2021 Kramer Pollnow Prize Award for scientific excellence in clinical research in   
-    child,adolescent
-    and adult psychiatry by the European Network of Hyperactivity Disorders (EUNETHYDIS)
+  - 2021 Kramer Pollnow Prize Award for scientific excellence in clinical research in 
+    child,adolescent and adult psychiatry by the European Network of Hyperactivity Disorders (EUNETHYDIS)
   - 2020 Elaine Schlosser Lewis Award as the best research paper in ADHD
     research this year for the paper A Double-Blind Randomized
     Placebo-Controlled Trial of Citalopram Adjunctive to Stimulant
@@ -183,7 +215,7 @@ Camden & Islington NHS Foundation Trust
     that I am a last author on.
   - 2019 NIH Director’s Award “for exemplary performance while
     demonstrating significant leadership, skill and ability in serving
-    as a mentor.”  
+    as a mentor.” 
   - 2019 Gerald L Klerman Young Investigator (under 45 years) Prize, the
     highest honor that the Depression and Bipolar Support Alliance gives
     to members of the scientific community
@@ -198,12 +230,22 @@ Camden & Islington NHS Foundation Trust
     Adolescents, published by Oxford University Press
   - 2014 Best Paper of the Year in Depression or Suicide published in
     JAACAP, awarded by the Klingenstein Foundation
-  - 2010 Research Prize, European Psychiatric Association (EPA)  
+  - 2010 Research Prize, European Psychiatric Association (EPA) 
   - 2004 Special Mention from the International Neuropsychiatry
     Association
   - 2004 European Science Foundation Young Scientist Travel Award
+  
+* * * * *
 
 ### Keynote Lectures, Invited Lectures, Symposia and Chairing of Symposia (examples)  
+  - Keynote Speaker, Irritability as Mood at Festschrift, Symposium for Ellen Leibenluft, NIMH, NIH, Bethesda, MD, USA, Jan 2024
+  - Keynote Speaker The Future and Challenges of Child and Adolescent Psychiatry at Hellenic Conference of Child and Adolescence Psychiatry, Athens, November 2023
+  - Keynote Speaker Emotions and Decision Making,Insight Nel Disturbo Da Deficit Di Attenzione ed ipperativita, Naples, October 2023
+  - Invited Speaker Treatment of Depression at Annual Italian Neuropsychiatry Meeting, Cagliari, Italy, May 2023 Depression
+  - Invited Speaker The Issues with Pharmacological Treatments of Depression at 8th Maudsley Mediterranean Forum, Palermo, Italy, May 2023 Depression
+  - Invited Speaker Emotion Dysregulation at 8th Maudsley Mediterranean Forum, Palermo, Italy, May 2023 Depression
+  - Keynote Speaker ESCAP Conference, Copenhagen, June 2023, Affective Phenomena: Moods, Emotions, Feelings: How are they generated and Maintained?
+  - Keynote Speaker Reading Emotions Conference, June 2023 Fluctuation and Change Implications for Neurocognitive Development and Psychopathology
   - Speaker EUNETHYDIS Conference. Emotion dysregulation in ADHD: revisting an old debate, September 2022, Cardiff, UK.
   -Chair: ADHD. Life-time continuity, serious mental illness, and genetics World Psychiatric Association Thematic Conference, Athens, Greece
   - Guest Speaker and Panelist Pediatric Major Depressive Disorder Mini-Symposium,  Co-hosted by the Division of Pediatric and Maternal Health and the Division of Psychiatry Office of New Drugs | Center for Drug Evaluation & Research | U.S. Food and Drug Administration (FDA), (June 2022) Bethesda, MD, USA
@@ -276,26 +318,34 @@ Camden & Islington NHS Foundation Trust
   - Invited Lecture, Judge Baker Children’s Center, Harvard University,
     USA February 2111
   - Invited Lecture, Harvard Dept Psychology, February 2011
+  
+* * * * *
 
 ### Grants
   
-  - Title:Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in  Young People  
+  - Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in  Young People  
   Position: PI  
   Funding Body: Wellcome Trust  
   Amount:£3,015,694.19  
   Outcome: awarded December 2022 
   
   - Title: How does the SSRI fluoxetine work in adolescent depression?  
-  Position: Co-I and site PI (overall PI Prof Harmer London)  
+  Position: Co-I and site PI (overall PI Prof Harmer, Oxford)  
   Funding Body: Wellcome Trust  
   Amount:£2,570,720.00  
   Outcome: awarded December 2022  
     
-  - Title:NIHR/HTA 22/88 Repetitive Transcranial Magnetic Stimulation for depression in adolescents 
+  - Title: Understanding the role of tonic and phasic irritability in developmental psychopathology through an ecologically valid multimodal investigation.  
+  Position: Collaborator
+  Funding Body: Swiss National Science Foundation (grant number is 32003B_215660)
+  Amount:763,934 CHF 
+  Outcome: awarded April 2023 
+  
+  - Title: NIHR/HTA 22/88 Repetitive Transcranial Magnetic Stimulation for depression in adolescents 
   Position: Co-I and site PI (overall PI Dr Rogers, Birmingham)  
   Funding Body: National Institute of Health Research
   Amount:£118,139.74
-  Outcome: pending   
+  Outcome: not funded   
     
    - Title: Amending and Upgrading Guidance for boosting MENTal health in young people (AUGMENT)  
   Position: Co-I and site PI (overall PI Prof Buitelaar Nijmegen)  
@@ -307,11 +357,11 @@ Camden & Islington NHS Foundation Trust
     Position: Co-Investigator (5% of my time)   
     Funding Body: Wellcome Trust   
     Amount: £6,923,603.00  
-    Dates: FY23 to FY 28  
+    Dates: awarded FY23 to FY 28  
 
   - Title: Respecting Affective Diversity in Adolescence (RADIANCE)  
     Position: Principal Investigator    
-    Funding Body:Medical Research Council    
+    Funding Body: Medical Research Council    
     Amount: £935,00 (not funded)  
     
 
@@ -319,7 +369,7 @@ Camden & Islington NHS Foundation Trust
     (Identifying Number: ZIA MH002957-03)  
     Position: Principal Investigator  
     Funding Body: National Institutes of Mental Health  
-    Amount: $ 12,7 Million 
+    Amount: $ 12,7 Million
     Dates: FY18 to FY 22
 
   - Title: Scoping review to systematically map the literature relating
@@ -410,11 +460,14 @@ Camden & Islington NHS Foundation Trust
     Fellowship  
     Amount: £439,243  
     Awarded: April 2011
+    
+* * * * *
 
 ### Mentorship and Teaching  
 
 **Mentorship Awards**  
-I have recently received two prizes for my mentorship at NIH, namely the 
+
+I have  received two prizes for my mentorship at NIH, namely the 
   - 2019 NIH Director’s Award “for exemplary performance and significant leadership, skill and ability in serving as a mentor.”
   - 2018 Outstanding Mentor Award by the National Institutes of Mental Health
 
@@ -442,12 +495,20 @@ I have recently received two prizes for my mentorship at NIH, namely the
   - Dr Song Qi, currently post-doc at NIH
 
   - Dr Lucrezia Liuzzi, moved on to be Staff Scientist at NIH
+  
+  - Dr Isobel Ridler, UCL ongoing
+  
+  - Dr Marjan Biria, UCL ongoing
+  
+  - Dr Madeleine Payne, UCL ongoing
 
 **PhD Students**
 
-  - Mr Jiazhou Chen, August 2020 - Current
+  - Dr Hestia Moningka September 2022 (2nd Supervisor) - Current
+  
+  - Mr Jiazhou Chen, August 2020 (initially first then second supervisor) - Current 
 
-  - Ms Marie Zelenina, August 2020 - Current
+  - Ms Marie Zelenina, August 2020 (initially first then second supervisor) - Current
 
   - Dr Nina Mikita: PhD awarded “without corrections” June 2016
 
@@ -478,10 +539,11 @@ several of them joining prestigious courses in medicine in the US
 Psychology or Psychology courses (e.g. Mr Chris Camp, Yale University).
 
 
-**Undergraduate Stduent**
+**Undergraduate Students**
 
 I supervise students for the Psychology BSc and am mentor to another two students  
 
+* * * * *
 
 ### Taught Courses and other Supervision
 
@@ -517,12 +579,14 @@ I supervise students for the Psychology BSc and am mentor to another two student
   - Taught regularly at the (Social Genetic and Developmental Psychiatry
     MSc) at King’s College London, (2012-2016)
 
+* * * * *
+
 ### Voluntary contributions to the Scientific Community
+
+  - See Journal Editorships above
 
   - Member of the Senior Investigator and Tenure Track Investigator NIMH
     Search Committee for the recruitment of new PIs to NIH.
-
-  - Organized 2018 Suicide Workshop at NIMH
 
   - Soon after my arrival at NIMH, I organized a Workshop about suicide
     recognition and prevention with four invited speakers from within
@@ -536,7 +600,7 @@ I supervise students for the Psychology BSc and am mentor to another two student
     at NIMH.
 
   - Securing of competitive funds for Academic Clinical Fellow
-    positions. I have secured competitive funding for these academic
+    positions in the NHS. I have secured competitive funding for these academic
     posts of junior doctors for my Department in the UK for three
     consecutive years, since I took over this responsibility as Academic
     Programme Director in 2013: 2014-2015, 2015-2016 and 2016-2017.
@@ -568,6 +632,7 @@ I supervise students for the Psychology BSc and am mentor to another two student
     PhD in Computational Psychiatry; Sheffield University, PhD in
     Developmental Psychology, Örebro University, Sweden.
 
+* * * * *
 
 ### Response to the Coronavirus Pandemic (COVID-19)
 
@@ -602,85 +667,77 @@ ways.
     have already completed 3 waves of data collection) and are expected
     to collect several more which we will be using in conjunction with
     our longitudinal data.
+    
+* * * * *
 
 ### Other activities 
 - Sports: I row competitively on Concept 2 and in 2021 I ranked worldwide for the 40-49 age range in the 97th percentile in 2000m (6:36.8), 97th percentile in 5000 m (17:49.3), and 91st percentile in the half marathon (1:21:40.1). In the 2023 season, I raced 5000 m 17:56.8. 
 
 - Philosophy: I am working on the relevance of the work of Panajotis Kondylis, particularly his Macht und Entscheidung, to emotion theory, as well as issues related to the conceptual history of mood inspired from Reinhart Kosselleck's work on Begriffsgeschichte. Some of these results I presented at my keynote at the European Child and Adolescent Psychiatry Conference this year.
 
+* * * * *
 
-### Publications  
-**Monographs**
+### Publications in Monographs 
+
 **Stringaris** A & Taylor E (2015). Disruptive Mood: Irritability in
 Children and Adolescents. New York: Oxford University Press.
 
+---
 
-**Book Editorship**
+**Publications as Book Editor**  
+Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S, Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and Psychology, Oxford, UK: Wiley Blackwell  
 
-```{r, echo=FALSE, message=FALSE,warning = FALSE}
-
-library(tidyverse)
-Editorships <- c("Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S, Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and Psychology, Oxford, UK: Wiley Blackwell", "Broome MR, Harland R, Owen GS, **Stringaris** A (2012). The Maudsley Reader in Phenomenological Psychiatry. Cambridge, UK: Cambridge University Press")
-data.frame(1:length(Editorships),Editorships) %>% 
-  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
-```
+Broome MR, Harland R, Owen GS, **Stringaris** A (2012). The Maudsley Reader in Phenomenological Psychiatry. Cambridge, UK: Cambridge University Press  
 
 
 
-**Book Chapters**
-```{r, echo = FALSE, , message=FALSE}
-library(tidyverse)
-Chapters <- c("Prabhakar J, Nielson DM, **Stringaris** (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer",
+---
+
+**Publications in Book Chapters**  
+
+**Stringaris A** (2024) Use of Structured Interviews, Rating Scales and Observational Methods in Clinical Settings. In Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S, Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and Psychology, Oxford, UK: Wiley Blackwell 
+    
+**Stringaris A** (2024) Emotion and Emotional Disorders: A Primer for Clinicians and Neuroscientists. In Thapar A, Pine D, **Stringaris** A, Ford T, Cresswell C, Cortese S, Leckman J (in preparation) Rutter’s Textbook of Child Psychiatry and Psychology, Oxford, UK: Wiley Blackwell 
+  
+Prabhakar J, Nielson DM, **Stringaris** (2022) Origins of Anhedonia in Childhood and Adolescence,In Pizzagali D (Ed) Current Topics in Behavioural Neuroscience. Springer  
         
-"O’Callaghan, G. &  **Stringaris **, A (2019) Reward Processing in Adolescent Depression. In C Harmer & T. Baune (Eds.) Cognitive Dimensions of Major Depressive Disorder, Oxford University Press",
+O’Callaghan, G. &  **Stringaris **, A (2019) Reward Processing in Adolescent Depression. In C Harmer & T. Baune (Eds.) Cognitive Dimensions of Major Depressive Disorder, Oxford University Press  
  
- " **Stringaris **, A., & Vidal-Ribas, P. (2018). Disruptive Mood Dysregulation Disorder. In M. Ebert, J. Leckman & I. Petrakis (Eds.), Current Diagnosis & Treatment Psychiatry (Third ed.): Lange Medical Books/McGraw-Hill.",
+**Stringaris **, A., & Vidal-Ribas, P. (2018). Disruptive Mood Dysregulation Disorder. In M. Ebert, J. Leckman & I. Petrakis (Eds.), Current Diagnosis & Treatment Psychiatry (Third ed.): Lange Medical Books/McGraw-Hill.  
 
-"Zahredine N, **Stringaris** A (2018) Bipolar Illness in Children and Adolescents, The Maudsley Prescribing Guidelines, Ed Taylor D, Barnes TRE, Young AH. Wiley Blackwell",
+Zahredine N, **Stringaris** A (2018) Bipolar Illness in Children and Adolescents, The Maudsley Prescribing Guidelines, Ed Taylor D, Barnes TRE, Young AH. Wiley Blackwell  
 
-"Vidal-Ribas, P., & **Stringaris**, A. (In press). Irritability in Mood and Anxiety Disorders. In A. K. Roy, M. A. Brotman & E. Leibenluft (Eds.), Irritability in Pediatric Psychopathology: Oxford University Press.",
+Vidal-Ribas, P., & **Stringaris**, A. (In press). Irritability in Mood and Anxiety Disorders. In A. K. Roy, M. A. Brotman & E. Leibenluft (Eds.), Irritability in Pediatric Psychopathology: Oxford University Press.  
 
-"Oxley C, **Stringaris** A (2018) Comorbidity of Depression and Anxiety with ADHD. In Oxford Textbook of Attention Deficit Hyperactivity Disorder. Ed. Banaschewski T, Coghill D, Zuddas A.Oxford University Press",
+Oxley C, **Stringaris** A (2018) Comorbidity of Depression and Anxiety with ADHD. In Oxford Textbook of Attention Deficit Hyperactivity Disorder. Ed. Banaschewski T, Coghill D, Zuddas A.Oxford University Press  
 
-"Mulraney M, **Stringaris** A, Taylor A (2018). Irritability, disruptive mood and ADHD. In Oxford Textbook of Attention Deficit Hyperactivity Disorder. Ed. Banaschewski T, Coghill D, Zuddas A. Oxford University Press",
+Mulraney M, **Stringaris** A, Taylor A (2018). Irritability, disruptive mood and ADHD. In Oxford Textbook of Attention Deficit Hyperactivity Disorder. Ed. Banaschewski T, Coghill D, Zuddas A. Oxford University Press  
 
-"Krieger FV and **Stringaris** A (2015). Temperament and Vulnerability to Externalizing Behavior in The Oxford Handbook of Externalizing Spectrum Disorders, Eds. Beauchaine TP and Hinshaw S. New York:Oxford University Press.",
+Krieger FV and **Stringaris** A (2015). Temperament and Vulnerability to Externalizing Behavior in The Oxford Handbook of Externalizing Spectrum Disorders, Eds. Beauchaine TP and Hinshaw S. New York:Oxford University Press.  
 
-"**Stringaris** A (2015). Emotion regulation and emotional disorders: conceptual issues for clinicians and neuroscientists in Rutter’s Child and Adolescent Psychiatry, Sixth Edition, Eds. Thapar A, Pine DS, Leckman JF, Scott S, Snowling MJ, Taylor EA. Oxford: Wiley-Blackwell.",
+**Stringaris** A (2015). Emotion regulation and emotional disorders: conceptual issues for clinicians and neuroscientists in Rutter’s Child and Adolescent Psychiatry, Sixth Edition, Eds. Thapar A, Pine DS, Leckman JF, Scott S, Snowling MJ, Taylor EA. Oxford: Wiley-Blackwell.  
 
-"**Stringaris** AK, Asherson P (2008). Molecular Genetics in Child Psychiatry in Advances in Biological Child Psychiatry, Eds. Rohde LA, Banaschewski, T. Basel: Karger Publishing.",
+**Stringaris** AK, Asherson P (2008). Molecular Genetics in Child Psychiatry in Advances in Biological Child Psychiatry, Eds. Rohde LA, Banaschewski, T. Basel: Karger Publishing.  
 
-"Giora R, **Stringaris** AK (2008). Neural Substrates of Metaphors in The Cambridge Encyclopedia of the Language Sciences (CELS), Ed. Hogan PC. New York: Cambridge University Press."
-)
+Giora R, **Stringaris** AK (2008). Neural Substrates of Metaphors in The Cambridge Encyclopedia of the Language Sciences (CELS), Ed. Hogan PC. New York: Cambridge University Press.  
 
-
-data.frame(1:length(Chapters),Chapters) %>% 
-  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
-
-```
-
-**Publications accepted**  
-```{r, echo=FALSE, message=FALSE,warning = FALSE}
-library(tidyverse)
-pre_prints <- c("Jangraw DC, Keren H, Bedder RL, Rutledge RB, Perreira F, Thomas AG,Pine DS, Zheng C, Nielson, DM , **Stringaris** A (2021) A Highly Replicable Decline in Mood During Rest and Simple Tasks, _Nature Human Behaviour_")
-data.frame(1:length(pre_prints),pre_prints) %>% 
-  knitr:: kable("simple", col.names = c("", ""),caption = NULL, label = NULL)
-```
-
+---
 
 **Journal Publications**  
 ```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(stringr)
 library(tidyverse)
 
-test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (6).csv") # still getting these manually for the moment
-                                                                   # simply put "stringaris a" into Pubmed and ask for all                                                                      #  results and download as .csv
+test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (10).csv") # still getting these manually for the moment
+                                                                   # simply put "stringaris a" #into Pubmed and ask for all                                                                      #  results and download as .csv which is what is read there
                                                                     
 test_pub_med$Authors <- str_replace_all(test_pub_med$Authors, "Stringaris", "**Stringaris**") 
 
 
 test_pub_med<- test_pub_med %>% 
   filter(str_detect(Authors, "Stringaris")) %>% 
+  filter(!str_detect(Title, "ERRATUM")) %>% 
+  filter(!str_detect(Title, "The Future of")) %>% 
   dplyr:: select("Authors", "Title", "Journal.Book", "PMID", "Publication.Year") 
 
 
