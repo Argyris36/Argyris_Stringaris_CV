@@ -747,7 +747,7 @@ test_pub_med$Journal.Book <- paste0("_", test_pub_med$Journal.Book, "_")
 
 PubMed <- 0# matrix(NA, nrow = nrow(test_pub_med), ncol = 1)
 for (i in 1: nrow(test_pub_med)){
-PubMed[i]<-paste0(test_pub_med$Authors[i], " ", "(", test_pub_med$Publication.Year[i], ")", " ", test_pub_med$Title[i], " ", test_pub_med$Journal.Book[i], " ", "PMID:", test_pub_med$PMID[i])
+PubMed[i]<-paste0(i, ". ", test_pub_med$Authors[i], " ", "(", test_pub_med$Publication.Year[i], ")", " ", test_pub_med$Title[i], " ", test_pub_med$Journal.Book[i], " ", "PMID:", test_pub_med$PMID[i])
   }
 
 
@@ -755,6 +755,6 @@ PubMed[i]<-paste0(test_pub_med$Authors[i], " ", "(", test_pub_med$Publication.Ye
 
 # PubMed <- as.list(PubMed)
 data.frame(PubMed) %>% 
- knitr:: kable("pipe", row.names = 1: length(PubMed), col.names = "")
+ knitr:: kable("pipe", col.names = "")
 
 ```
