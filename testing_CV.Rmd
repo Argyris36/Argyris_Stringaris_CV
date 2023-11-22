@@ -726,7 +726,7 @@ Giora R, **Stringaris** AK (2008). Neural Substrates of Metaphors in The Cambrid
 **Journal Publications**  
 ```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(stringr)
-library(tidyverse)
+library(tidyverse) 
 
 test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (11).csv") # still getting these manually for the moment
                                                                    # simply put "stringaris a" #into Pubmed and ask for all                                                                      #  results and download as .csv which is what is read there
