@@ -41,7 +41,7 @@ round(diff_days/365[[1]])` years old, a husband and father of three daughters. I
 competitively on Concept2 and read hard-copy books.
 
 My h-index = `r library(scholar) 
-predict_h_index("9B82424AAAAJ")[1,2]` and here is a [list of my
+get_profile("9B82424AAAAJ")$h_index` and here is a [list of my
 publications](https://pubmed.ncbi.nlm.nih.gov/?term=stringaris+a&sort=date)
 and here is my [Google Scholar
 page](https://scholar.google.com/citations?user=9B82424AAAAJ&hl=en&oi=ao).
@@ -728,7 +728,7 @@ Giora R, **Stringaris** AK (2008). Neural Substrates of Metaphors in The Cambrid
 library(stringr)
 library(tidyverse)
 
-test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (10).csv") # still getting these manually for the moment
+test_pub_med <- read.csv("~/Downloads/csv-stringaris-set (11).csv") # still getting these manually for the moment
                                                                    # simply put "stringaris a" #into Pubmed and ask for all                                                                      #  results and download as .csv which is what is read there
                                                                     
 test_pub_med$Authors <- str_replace_all(test_pub_med$Authors, "Stringaris", "**Stringaris**") 
@@ -745,7 +745,7 @@ test_pub_med$number_of_row <- seq.int(nrow(test_pub_med))
 # to italicise journal titles
 test_pub_med$Journal.Book <- paste0("_", test_pub_med$Journal.Book, "_")
 
-PubMed <- 0# matrix(NA, nrow = nrow(test_pub_med), ncol = 1)
+PubMed <- 0 # matrix(NA, nrow = nrow(test_pub_med), ncol = 1)
 for (i in 1: nrow(test_pub_med)){
 PubMed[i]<-paste0(i, ". ", test_pub_med$Authors[i], " ", "(", test_pub_med$Publication.Year[i], ")", " ", test_pub_med$Title[i], " ", test_pub_med$Journal.Book[i], " ", "PMID:", test_pub_med$PMID[i])
   }
@@ -755,6 +755,6 @@ PubMed[i]<-paste0(i, ". ", test_pub_med$Authors[i], " ", "(", test_pub_med$Publi
 
 # PubMed <- as.list(PubMed)
 data.frame(PubMed) %>% 
- knitr:: kable("pipe", row.names = " ", col.names = "")
+ knitr:: kable("pipe",  col.names = "")
 
 ```
