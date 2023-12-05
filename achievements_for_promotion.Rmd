@@ -1,5 +1,5 @@
 ---
-title: "A Stringaris: Progress since Arriving at UCL"
+title: "My Progress since Arriving at UCL"
 author: "Argyris Stringaris"
 date: "2023-12-05"
 output:
@@ -7,12 +7,13 @@ output:
       latex_engine: xelatex 
       extra_dependencies: ["float"]
   word_document: default
+urlcolor: blue
 ---
 
-# Achievements since being hired at UCL
-I have preapred this report about my progress and acheivements since arriving at UCL in January 2022. I have focused on the domains of publications, grant income and leadership. The report is in support of my request for consideration of salary increase.
+## Overview
+I have preapred this report about my progress and acheivements since arriving at UCL in January 2022. I have focused on publications, grant income and leadership. The report is in support of my request for consideration of salary increase.
 
-## Publications and Bibliographic indications 
+## Publications and Bibliographic Indicators 
 
 - I have published 38 PubMed-listed papers since arriving at UCL in 2022. These include publications in high profile jourals such as Nature Human Behaviour and American Journal as first or last authors of Psychiatry. Table 1 contains the full list of papers.
 - I was named Highly Cited Author by Clarivate in 2022 and was included in the 2023 top 2% list of my field by the recent Stanford classiciation of cited authors (see [here](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)).
@@ -24,7 +25,7 @@ get_profile("9B82424AAAAJ")$h_index`
 
 
 ## Grants 
-I have applied for eight grants listed below as PI or Co-PI since arriving at UCL. I have been successful in X of them (highlighted in bold below), including as PI a major Wellcome Grant from their Looking Back Moving Forward call worth 3,015,694.2
+I have applied for 10 grants listed below as PI or Co-PI since arriving at UCL. I have been successful in four of them (highlighted in **bold** below), including as PI a major Wellcome Grant from their Looking Back Moving Forward call worth 3,015,694.2
 
 
   - **Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in  Young People**  
@@ -94,22 +95,22 @@ Since arriving at UCL, I have, amongst other things, set up a new lab, helped se
 
 **Pro-Vice_Provost**  
   
-  - We are leading UCL's Grand Challenges in Mental Health and [Wellbeing] (https://www.ucl.ac.uk/grand-challenges/news/2023/oct/academic-leads-appointed-first-new-ucl-grand-challenges-themes) together with Prof. Essi Viding
+  - We are leading UCL's Grand Challenges in Mental Health and Wellbeing [(GC in MH & WB)](https://www.ucl.ac.uk/grand-challenges/news/2023/oct/academic-leads-appointed-first-new-ucl-grand-challenges-themes) together with Prof. Essi Viding
 
 
 **Set up of New Laboratory**
 
--  I am Co-Director (with Dr Georgina Krebs) of the Anxiety self-Image and Mood (AIM) [Lab](https://www.ucl.ac.uk/pals/research/clinical-educational-and-health-psychology/research-groups/aim-lab)
+-  I am Co-Director (with Dr Georgina Krebs) of the Anxiety self-Image and Mood or [AIM Lab](https://brainlog.blog/)
 
 **Set up of New Clinic**
 
--  I am Co-Director (with Dr Georgina Krebs) [Clinic](https://www.ucl.ac.uk/university-clinic/about-university-clinic/clinical-services/anxiety-self-image-and-mood-aim-clinic) at UCL
+-  I am Co-Director (with Dr Georgina Krebs) of the [AIM Clinic](https://www.ucl.ac.uk/university-clinic/about-university-clinic/clinical-services/anxiety-self-image-and-mood-aim-clinic) at UCL
 
 **Presidency of International Organization**
 
-  - Past President of the [International Society for
+  - Past President of the International Society for
     Research in Child and Adolescent Psychopathology
-    (ISRCAP)](https://isrcap.org/executive-committee.html)
+    [(ISRCAP)](https://isrcap.org/executive-committee.html)
     
     
 **Chair of Government Committee**  
@@ -143,7 +144,7 @@ Leibenluft E, Allen...**Stringaris** A (2024) Peer Review OnlyIrritability in Yo
 
 Krebs G, Ford T, Clark B, **Stringaris** A (2024) Epidemiology of body dysmorphic disorder and appearance preoccupation in youth: prevalence, comorbidity and psychosocial impairment. _J Am Acad Child Adol Psych_ (in press)
 
-## Papers in PubMed since January 2022
+## Table 1. Papers in PubMed since January 2022
 
 ```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(tidyverse)  
