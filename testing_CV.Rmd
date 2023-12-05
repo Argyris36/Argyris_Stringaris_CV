@@ -754,9 +754,9 @@ PubMed[i]<-paste0(i, ". ", test_pub_med$Authors[i], " ", "(", test_pub_med$Publi
 
 
 # PubMed <- as.list(PubMed)
- data.frame(PubMed) %>% 
+   data.frame(PubMed) %>% 
  knitr:: kable("pipe",  col.names = "")
 
-
-
+PubMed <- data.frame(PubMed)
+openxlsx::write.xlsx(PubMed, "PubMed.xlsx")
 ```

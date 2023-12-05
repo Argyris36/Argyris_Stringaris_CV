@@ -1,0 +1,158 @@
+---
+title: "A Stringaris: Progress since Arriving at UCL"
+author: "Argyris Stringaris"
+date: "2023-12-05"
+output:
+  pdf_document:
+      latex_engine: xelatex 
+      extra_dependencies: ["float"]
+  word_document: default
+---
+
+# Achievements since being hired at UCL
+I have preapred this report about my progress and acheivements since arriving at UCL in January 2022. I have focused on the domains of publications, grant income and leadership. The report is in support of my request for consideration of salary increase.
+
+## Publications and Bibliographic indications 
+
+- I have published 38 PubMed-listed papers since arriving at UCL in 2022. These include publications in high profile jourals such as Nature Human Behaviour and American Journal as first or last authors of Psychiatry. Table 1 contains the full list of papers.
+- I was named Highly Cited Author by Clarivate in 2022 and was included in the 2023 top 2% list of my field by the recent Stanford classiciation of cited authors (see [here](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)).
+
+- My annual citations continue to rise (e.g. according to Google Scholar by about 20% since last year) and I have an h-index = `r library(scholar) 
+get_profile("9B82424AAAAJ")$h_index`
+
+- I am the co-editor of what is considered the standard texbook in our field Rutter's Textbook of Child and Adolescent Psychiatry.  
+
+
+## Grants 
+I have applied for eight grants listed below as PI or Co-PI since arriving at UCL. I have been successful in X of them (highlighted in bold below), including as PI a major Wellcome Grant from their Looking Back Moving Forward call worth 3,015,694.2
+
+
+  - **Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in  Young People**  
+  Position: PI  
+  Funding Body: Wellcome Trust  
+  Amount:£3,015,694.19  
+  Outcome: awarded December 2022 
+  
+  - **Title: How does the SSRI fluoxetine work in adolescent depression?**  
+  Position: Co-I and site PI (overall PI Prof Harmer, Oxford)  
+  Funding Body: Wellcome Trust  
+  Amount:£2,570,720.00  
+  Outcome: awarded December 2022  
+  
+  - Title: A Novel Neurocomputational Model Of Mood Dysregulation In Adolescents  
+  Position: PI
+  Funding Body: MRC
+  Amount: £1,391,677.8
+  Outcome: unsuccesful. 
+  
+  - Title: Accelerating Interventions In Child And Adolescent Mental Health
+  Position: PI with Prof Viding
+  Funding Body: MRC
+  Amount: £25,787,439.07
+  Outcome: unsuccesful
+  
+  - Title: Young Moods
+  Position: Co-PI
+  Funding Body: European Union
+  Amount: £532,287.18
+  Outcome: unsuccesful
+    
+  - **Title: Understanding the role of tonic and phasic irritability in developmental psychopathology through an ecologically valid multimodal investigation.**  
+  Position: Collaborator
+  Funding Body: Swiss National Science Foundation (grant number is 32003B_215660)
+  Amount:763,934 CHF 
+  Outcome: awarded April 2023 
+  
+  - Title: NIHR/HTA 22/88 Repetitive Transcranial Magnetic Stimulation for depression in adolescents 
+  Position: Co-I and site PI (overall PI Dr Rogers, Birmingham)  
+  Funding Body: National Institute of Health Research
+  Amount:£118,139.74
+  Outcome: not funded   
+    
+   - Title: Amending and Upgrading Guidance for boosting MENTal health in young people (AUGMENT)  
+  Position: Co-I and site PI (overall PI Prof Buitelaar Nijmegen)  
+  Funding Body: European Union, Horizon 2020
+  Amount:£405,104.33 
+  Outcome: not funded
+  
+  - **Title: 4M: Microbes, Milk, Mental Health and Me; how do early life gut microbiota and feeding shape long- term mental health in the C-GULL Cohort?  **
+    Position: Co-Investigator (5% of my time)   
+    Funding Body: Wellcome Trust   
+    Amount: £6,923,603.00  
+    Dates: awarded FY23 to FY 28  
+
+  - Title: Respecting Affective Diversity in Adolescence (RADIANCE)  
+    Position: Principal Investigator    
+    Funding Body: Medical Research Council    
+    Amount: £935,00 (not funded)  
+    
+
+
+## Leadership
+
+Since arriving at UCL, I have, amongst other things, set up a new lab, helped set up a new clinic with Dr Krebs, organised an international conference and assumed the Role of Pro-Vice Provost the Grand Challenge of Mental Health and Wellbeing together with Prof Viding. I am listing the the main achievements below. 
+
+**Pro-Vice_Provost**  
+  
+  - We are leading UCL's Grand Challenges in Mental Health and [Wellbeing] (https://www.ucl.ac.uk/grand-challenges/news/2023/oct/academic-leads-appointed-first-new-ucl-grand-challenges-themes) together with Prof. Essi Viding
+
+
+**Set up of New Laboratory**
+
+-  I am Co-Director (with Dr Georgina Krebs) of the Anxiety self-Image and Mood (AIM) [Lab](https://www.ucl.ac.uk/pals/research/clinical-educational-and-health-psychology/research-groups/aim-lab)
+
+**Set up of New Clinic**
+
+-  I am Co-Director (with Dr Georgina Krebs) [Clinic](https://www.ucl.ac.uk/university-clinic/about-university-clinic/clinical-services/anxiety-self-image-and-mood-aim-clinic) at UCL
+
+**Presidency of International Organization**
+
+  - Past President of the [International Society for
+    Research in Child and Adolescent Psychopathology
+    (ISRCAP)](https://isrcap.org/executive-committee.html)
+    
+    
+**Chair of Government Committee**  
+
+  - Chair of the Mental Health Committee of the Surgeon General's Office (Kentriko Sumvoulio Ygeias) for the Greek State November 2020 - December 2022. I have chaired the committee that advises the Government on issues concerning mental health legislature. This invovlved the generation of reports to provide in depth scientific opinion on issues such as the regulation of psychotherapies in Greece, and most recently our opinion in favour of banning of so-called "conversion therapies", which was eventually enshrined in law. 
+  
+  - Member of the Steering Committee of the University Research Institute for Mental Health (EPIPSY) in Greece (January 2022 - ongoing) 
+  
+**Scientific Advisor to Charities**  
+    
+  - Chief Scientific Officer of Mazi Gia to Paidi, a leading Greek charity for children and young people with various activities around child health.
+
+
+**Taskforce and Scientific Board Memberships** 
+
+  
+  - Scientific Advisory Board Advisory Board for the Medical Research
+    Council UK initiative in Adolescence, Mental Health and the
+    Developing Mind (2021 - ongoing)
+  - Steering Committee International Consortium on Irritability (2022 - ongoing)
+  - Child Psychiatry Representative on Royal College of Psychiatry Psychopharmacology Committee (ongoing)
+  - Member of the Executive Board of the Royal College of Psychiatry Child and Adolescent Psychiatry Faculty.(2023 - ongoing)
+  - Member of the Board of the Hellenic Child Psychiatry Society (2023 - ongoing)
+  - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. (2022 - ongoing)
+  - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of PoVErty  
+    (ALIVE), a Wellcome Trust-funded international project. (ongoing)
+
+## Papers in Press 
+
+Leibenluft E, Allen...**Stringaris** A (2024) Peer Review OnlyIrritability in Youth: A Critical Integrative Review. _Am J Psychiatry_ (in press)
+
+Krebs G, Ford T, Clark B, **Stringaris** A (2024) Epidemiology of body dysmorphic disorder and appearance preoccupation in youth: prevalence, comorbidity and psychosocial impairment. _J Am Acad Child Adol Psych_ (in press)
+
+## Papers in PubMed since January 2022
+
+```{r, echo=FALSE, message=FALSE,warning = FALSE}
+library(tidyverse)  
+PubMed <- readxl :: read_excel("PubMed.xlsx")
+
+PubMed[1:36,] %>% 
+ knitr:: kable("pipe",  col.names = "")
+```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
