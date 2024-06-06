@@ -1,0 +1,59 @@
+---
+title: "CV of Professor Argyris Stringaris"
+author: "University College Lonodn, 1-19 Torrington Place, London W1T 7PH; a.stringaris@ucl.ac.uk"
+date: "19/01/2023"
+output:
+  pdf_document: default
+  html_document: default
+---
+I am a Child and Adolescent Psychiatrist and a neuroscientist studying mood and the mechanisms that underlie mood disorders particularly depression, in adolescents. Our laboratory specialises in creating experimental setups to influence mood and related phenomena in order to arrive at causal inferences, which we then put to the test using different approaches in real-world settings. Our lab’s important recent insights have been the relationship between reward and mood (using neurocomputational methods) and more recently the discovery of Mood Drift over Time, a highly replicable decline in human mood during rest and simple tasks. Our work on mood has been recognised internationally, most recently by being included in the Highly Cited authors (Clarivate) for 2022. 
+
+## Positions and Employment 
+-  Professor of Child & Adolescent Psychiatry, Division of Psychiatry & Division of Psychology and Language Sciences, Faculty of Brain Sciences, UCL, 2022- ongoing 
+-  Consultant Child & Adolescent Psychiatry, University Clinic, Camden & Islington, NHS Trust, 2022- ongoing 
+-  Senior Clinical Advisor Anna Freud National Centre for Children & Families, 2022- ongoing 
+-  Senior Investigator, Chief of Clinical and Computational Psychiatry Section,NIH/NIMH, USA 2016 - 2021 
+-  Wellcome Trust Fellow and Senior Lecturer, Head of Mood and Development Laboratory, Department of Child & Adolescent Psychiatry, Institute of Psychiatry, Psychology & Neuroscience King’s College London & Maudsley Hospital London, 2012 – 2016
+- Lecturer in Child and Adolescent Psychiatry at Institute of Psychiatry, King’s College London, 2007 - 2012  
+
+## Education and Training 
+- Royal College of Psychiatrists, CCT, 2011, Child & Adolescent Psychiatry 
+- Royal College of Psychiatrists, MRCPsych, 2006, Psychiatry 
+- University of London, PhD, 2011, Developmental Neuroscience 
+- University of Goettingen, Germany, Dr med, (magna cum laude), 2002, Neurology 
+- University of Goettingen, Germany, MBBS, 2000, Medicine 
+
+## Prizes and Distinctions 
+- 2022 Highly Cited Researcher Clarivate Analytics
+- 2021 Open Neuro Hall of Fame, tied 2nd Place for contributing datasets 2021 Kramer Pollnow Prize Award for scientific excellence in clinical research in child, adolescent and adult psychiatry by the European Network of Hyperactivity Disorders 
+- 2020 Elaine Schlosser Lewis Award as the best research paper in ADHD research this year 
+- 2019 NIH Director’s Award “for exemplary performance while demonstrating significant leadership, skill and ability in serving as a mentor.” 
+- 2019 Gerald L Klerman Young Investigator (under 45 years) Prize, the highest honor that the Depression and Bipolar Support Alliance gives to members of the scientific community 
+- 2019 Prize for Distinguished Editorial Contributions, Academy of Child and Adolescent Mental Health, J Child Psychol and Psychiatry 
+- 2018 Elected a Fellow of the Royal College of Psychiatrists UK for Distinct and Significant Contributions to psychiatry. 
+- 2018 Outstanding Mentor Award by the National Institutes of Mental Health 
+- 2016 Special Commendation by the British Medical Association (BMA) for our book Disruptive Mood: Irritability in Children and Adolescents, published by Oxford University Press 
+- 2014 Best Paper of the Year in Depression or Suicide published in JAACAP, awarded by the Klingenstein Foundation 
+- 2010 Research Prize, European Psychiatric Association (EPA) 
+
+## Selected funding 
+- Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in Young People, Wellcome Trust, £3,015,694 Principal Investigator: Argyris Stringaris
+- How does the SSRI fluoxetine work in adolescent depression?  2023-2027, Wellcome Trust, £2,570,720.00 Co-PI and site PI (overall PI Prof Harmer, Oxford)
+- Characterization and Treatment of Adolescent Depression. 2019-2023, National Institute of Mental Health (ZIA MH002957-03): $12,700,000. Principal Investigator: Argyris Stringaris 
+- Regulating Emotions * Strengthening Adolescent Resilience (RE-STAR), 2021-2025 Identifying Number: MR/W002493/1:), UK Research and Innovation (UKRI), £ 3,3 Million Co-Investigator: Argyris Stringaris 
+- Scoping review to systematically map the literature relating to the effects of SSRI treatment in young people aged 14-24 years old with depression and/or anxiety disorders. 2020 * 2021, Wellcome Trust, UK, £ 45,000, Co-Investigator: Argyris Stringaris 
+- Me_Health_e: testing the added value of electronic outcome measurement in Child & Adolescent Mental Health Services. 2016, Guys King’s St Thomas’s Charity: £87,500. Principal Investigator: Argyris Stringaris. 
+- Rumination as a mechanism of ketamine’s antidepressant action: a placebo-controlled acute dose fMRI study in patients, University College London and Johnson & Johnson Innovation, £180,000.00. Co-Principal investigator: Argyris Stringaris. 
+- Early precursors of personality disorder. 2011, Department of Health: £450,000. Co- Principal investigator: Argyris Stringaris.
+
+## Editorships  
+- Editor European Journal of Child and Adolescent Psychiatry (2021 - ongoing) 
+- Consulting Editor Cognitive Affective and Behavioral Neuroscience (2021 - ongoing) 
+- Editor (2012-2019) Journal of Child Psychology and Psychiatry 
+- Editorial Board (2015 - ongoing): Journal of the American Academy of Child & Adolescent Psychiatry 
+
+## Select Taskforce and Board Memberships
+- President of the International Society for Research in Child & Adolescent Psychopathology
+- Member of the European ADHD Guidelines Group (EAGG) 
+- Scientific Advisory Board Advisory Board for the Medical Research Council UK initiative in Adolescence, Mental Health, and the Developing Mind 
+

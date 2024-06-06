@@ -1,7 +1,7 @@
 ---
-title: "My Progress since Arriving at UCL"
+title: "Request for Salary Increase"
 author: "Argyris Stringaris"
-date: "2023-12-05"
+date: "6th December 2023"
 output:
   pdf_document:
       latex_engine: xelatex 
@@ -11,20 +11,24 @@ urlcolor: blue
 ---
 
 ## Overview
-I have preapred this report about my progress and acheivements since arriving at UCL in January 2022. I have focused on publications, grant income and leadership. The report is in support of my request for consideration of salary increase.
+I have prepared this report about my progress and acheivements since arriving at UCL in January 2022. I have focused on publications, grant income and leadership. The report is in support of my request for consideration of salary increase.
 
-## Publications and Bibliographic Indicators 
+## Case for Salary increase
+I am asking for an increase in salary as this would enable me to focus even more on my increasing duties at UCL which stretch well beyond working day. This is not least because I have assumed the role of Pro-Vice-Provost for the UCL Grand Challenge in Mental Health and Wellbeing. A salary increase would reduce the need for me to be looking for extra sources of income in order to cover the high cost of living for a family in London, and thus remain competitive at an international level as a UCL academic. 
 
-- I have published 38 PubMed-listed papers since arriving at UCL in 2022. These include publications in high profile jourals such as Nature Human Behaviour and American Journal as first or last authors of Psychiatry. Table 1 contains the full list of papers.
-- I was named Highly Cited Author by Clarivate in 2022 and was included in the 2023 top 2% list of my field by the recent Stanford classiciation of cited authors (see [here](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)).
+I believe that a request for an increase in salary is justified for the following reasons:
 
-- My annual citations continue to rise (e.g. according to Google Scholar by about 20% since last year) and I have an h-index = `r library(scholar) 
-get_profile("9B82424AAAAJ")$h_index`
+- I have been awarded in substantial grant income (well over £3.6 million in PI income, see details below) within a short period of time.
 
-- I am the co-editor of what is considered the standard texbook in our field Rutter's Textbook of Child and Adolescent Psychiatry.  
+- I have built and co-direct a new laboratory and a new clinic (see below) at UCL, thus creating new resources for research, clinical work and teaching. 
 
+- I have assumed a new role as Pro-Vice-Provost (together with Prof Viding) which covers 25% of my salary.
 
-## Grants 
+- I have shown leadership in several domains internationally and have maintained a high scientific output with steady increases in my bibliographic indicators.
+
+Below I provide details for each of these points.
+
+## Grant Applications and Income
 I have applied for 10 grants listed below as PI or Co-PI since arriving at UCL. I have been successful in four of them (highlighted in **bold** below), including as PI a major Wellcome Grant from their Looking Back Moving Forward call worth 3,015,694.2
 
 
@@ -137,6 +141,19 @@ Since arriving at UCL, I have, amongst other things, set up a new lab, helped se
   - Member of the European College of Neuropharmacology (ECNP) Child and Adolescent Psychiatry Network. (2022 - ongoing)
   - Member Scientific Advisory Group of Improving Adolescent mentaL health by reducing the Impact of PoVErty  
     (ALIVE), a Wellcome Trust-funded international project. (ongoing)
+    
+    
+    
+## Publications and Bibliographic Indicators 
+
+- I have published 38 PubMed-listed papers since arriving at UCL in 2022. These include publications in high profile jourals such as Nature Human Behaviour and American Journal as first or last authors of Psychiatry. Table 1 contains the full list of papers.
+- I was named Highly Cited Author by Clarivate in 2022 and was included in the 2023 top 2% list of my field by the recent Stanford classiciation of cited authors (see [here](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)).
+
+- My annual citations continue to rise (e.g. according to Google Scholar by about 20% since last year) and I have an h-index = `r library(scholar) 
+get_profile("9B82424AAAAJ")$h_index`
+
+- I am the co-editor of what is considered the standard texbook in our field Rutter's Textbook of Child and Adolescent Psychiatry.  
+
 
 ## Papers in Press 
 
@@ -145,7 +162,6 @@ Leibenluft E, Allen...**Stringaris** A (2024) Peer Review OnlyIrritability in Yo
 Krebs G, Ford T, Clark B, **Stringaris** A (2024) Epidemiology of body dysmorphic disorder and appearance preoccupation in youth: prevalence, comorbidity and psychosocial impairment. _J Am Acad Child Adol Psych_ (in press)
 
 ## Table 1. Papers in PubMed since January 2022
-
 ```{r, echo=FALSE, message=FALSE,warning = FALSE}
 library(tidyverse)  
 PubMed <- readxl :: read_excel("PubMed.xlsx")
